@@ -34,9 +34,9 @@ Muita coisa, muita coisa! O time da org está trabalhando incansavelmente pra fa
 - Primeiro lote dos ingressos tem suas vendas até dia 01/08 às 10am.
 - Você pode enviar propostas até 10/08/2024 23:59, para o nosso call for papers (chamada de trabalhos).
 
-**Conhece alguma empresa que está afim de patrocinar esse evento??*
+**Conhece alguma empresa que está afim de patrocinar esse evento??**
 
-Manda pra gente em eventos@python.org.br o contato que cuidamos dessa parte ;)
+Manda pra gente em eventos@python.org.br o contato que cuidamos dessa parte!
 
 Python Brasil[20] - RJ
 
