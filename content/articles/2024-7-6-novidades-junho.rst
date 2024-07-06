@@ -1,4 +1,4 @@
-Novidades de Junho Python Brasil 2024
+Novidades de Junho da Python Brasil 2024
 ================================================
 
 :author: Bianca Rosa
