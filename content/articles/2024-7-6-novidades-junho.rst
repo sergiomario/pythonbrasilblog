@@ -1,5 +1,4 @@
 Novidades da Python Brasil 2024
-
 =============================
 
 :author: Bianca Rosa
