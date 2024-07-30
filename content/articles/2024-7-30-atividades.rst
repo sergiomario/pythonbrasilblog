@@ -12,6 +12,7 @@ Endereço: R. Santa Luzia, 735 - Centro, Rio de Janeiro - RJ
 Ingressos: Gratuito
 Inscrições: a partir de 15/09/2024, em https://pybr2024.eventbrite.com.br
 Seleção de atividades: https://talks.python.org.br/pythonbrasil-2024
+Local cedido por: `SENAC <https://www.senac.br>`
 
 *O que são os tutoriais?*
 
@@ -70,6 +71,7 @@ Endereço: Av. Almirante Barroso, 81 - Centro, Rio de Janeiro - RJ
 Ingressos: Gratuito
 Inscrições: Próximo à data do evento, em https://pybr2024.eventbrite.com.br
 Chamada de atividade: https://talks.python.org.br/pythonbrasil-2024
+Local cedido por: `FIAP <https://www.alura.com.br>` e `Alura <https://alura.com.br>`
 
 *O que são as sprints?*
 
