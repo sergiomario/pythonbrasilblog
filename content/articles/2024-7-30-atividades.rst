@@ -8,11 +8,16 @@ Por dentro dos detalhes dos três tipos de atividades da Python Brasil
 **Tutoriais**
 
 Local: SENAC Santa Luzia
+
 Endereço: R. Santa Luzia, 735 - Centro, Rio de Janeiro - RJ
+
 Ingressos: Gratuito
+
 Inscrições: a partir de 15/09/2024, em https://pybr2024.eventbrite.com.br
+
 Seleção de atividades: https://talks.python.org.br/pythonbrasil-2024
-Local cedido por: `SENAC <https://www.senac.br>`
+
+Local cedido por: `SENAC <https://www.senac.br>`_
 
 *O que são os tutoriais?*
 
@@ -31,9 +36,13 @@ Os ingressos à venda ainda não dão direito a participação nos tutoriais, po
 **Palestras**
 
 Local: Centro de Convenções Bolsa do Rio
+
 Endereço: Rua do Mercado, 12 - Centro, Rio de Janeiro - RJ
+
 Ingressos: A partir de 200 reais (meia-entrada, primeiro lote), em https://pybr2024.eventbrite.com.br.
+
 Transmissão Online: Gratuita, com inscrição prévia em https://pybr2024.eventbrite.com.br
+
 Seleção de atividades: https://talks.python.org.br/pythonbrasil-2024
 
 *O que são as palestras?*
@@ -50,14 +59,15 @@ As palestras são pagas, e os ingressos estão à venda no site do evento. A tra
 
 Temos previstos os descontos de meia entrada para: 
 
-- a) Menores de 21 anos, nos termos da Lei Estadual nº 3.364/2000; 
-- b) Profissionais que estejam em efetivo exercício e aposentados nas instituições de ensino, tanto os da rede estadual como os da rede privada, nos termos da Lei Estadual nº 8.775/2020;
-- c) Professores e profissionais da Rede Pública Municipal de Ensino do Estado do Rio de Janeiro, nos termos da Lei Municipal nº 3.424/2002 e Lei Municipal nº 5.844/2015;
-- d) Garis da Companhia Municipal de Limpeza Urbana, nos termos da Lei Municipal nº 8.251/2024; e) Estudantes regularmente matriculados em instituições de ensino público ou privado, desde a educação infantil até o ensino superior, nos termos da Lei Federal nº 12.933/2013; 
-- f) Cidadãos com idade igual ou superior a 60 anos (Idosos), nos termos da Lei Federal nº 12.933/2013;
-- g) Pessoas com deficiência, nos termos da Lei Federal nº 12.933/2013;
-- h) Jovens de baixa renda, nos termos da Lei Federal nº 12.933/2013.
+- Menores de 21 anos, nos termos da Lei Estadual nº 3.364/2000; 
+- Profissionais que estejam em efetivo exercício e aposentados nas instituições de ensino, tanto os da rede estadual como os da rede privada, nos termos da Lei Estadual nº 8.775/2020;
+- Professores e profissionais da Rede Pública Municipal de Ensino do Estado do Rio de Janeiro, nos termos da Lei Municipal nº 3.424/2002 e Lei Municipal nº 5.844/2015;
+- Garis da Companhia Municipal de Limpeza Urbana, nos termos da Lei Municipal nº 8.251/2024; e) Estudantes regularmente matriculados em instituições de ensino público ou privado, desde a educação infantil até o ensino superior, nos termos da Lei Federal nº 12.933/2013; 
+- Cidadãos com idade igual ou superior a 60 anos (Idosos), nos termos da Lei Federal nº 12.933/2013;
+- Pessoas com deficiência, nos termos da Lei Federal nº 12.933/2013;
+- Jovens de baixa renda, nos termos da Lei Federal nº 12.933/2013.
 
+Mais detalhes podem ser visto no website de compra de ingressos: `https://talks.python.org.br/pythonbrasil-2024 <https://talks.python.org.br/pythonbrasil-2024>`_
 Além desses grupos, temos descontos que serão emitidos a critério da organização do evento com fins de inclusão e diversidade, e para fomentar a divulgação do evento em outras comunidades de tecnologia.
 
 *Preciso de uma nota-fiscal, como faço?*
@@ -67,11 +77,16 @@ Nesse caso, entre em contato com a organização do evento em eventos@python.org
 **Sprints**
 
 Local: WeWork Almirante Barroso
+
 Endereço: Av. Almirante Barroso, 81 - Centro, Rio de Janeiro - RJ
+
 Ingressos: Gratuito
+
 Inscrições: Próximo à data do evento, em https://pybr2024.eventbrite.com.br
+
 Chamada de atividade: https://talks.python.org.br/pythonbrasil-2024
-Local cedido por: `FIAP <https://www.alura.com.br>` e `Alura <https://alura.com.br>`
+
+Local cedido por: `FIAP <https://www.alura.com.br>`_ e `Alura <https://alura.com.br>`_
 
 *O que são as sprints?*
 
