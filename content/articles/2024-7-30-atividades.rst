@@ -1,5 +1,5 @@
 Por dentro dos detalhes dos três tipos de atividades da Python Brasil
-================================================
+===========================================================================
 
 :author: Bianca Rosa
 :date: 2024-7-30 19:00
