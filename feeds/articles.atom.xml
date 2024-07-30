@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Blog da Python Brasil - articles</title><link href="https://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="https://blog.pythonbrasil.org.br/feeds/articles.atom.xml" rel="self"></link><id>https://blog.pythonbrasil.org.br/</id><updated>2024-07-30T19:00:00-03:00</updated><entry><title>Por dentro dos detalhes dos três tipos de atividades da Python Brasil</title><link href="https://blog.pythonbrasil.org.br/por-dentro-dos-detalhes-dos-tres-tipos-de-atividades-da-python-brasil.html" rel="alternate"></link><published>2024-07-30T19:00:00-03:00</published><updated>2024-07-30T19:00:00-03:00</updated><author><name>Bianca Rosa</name></author><id>tag:blog.pythonbrasil.org.br,2024-07-30:/por-dentro-dos-detalhes-dos-tres-tipos-de-atividades-da-python-brasil.html</id><summary type="html"></summary><content type="html">&lt;p&gt;&lt;strong&gt;Tutoriais&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Local: SENAC Santa Luzia
-Endereço: R. Santa Luzia, 735 - Centro, Rio de Janeiro - RJ
-Ingressos: Gratuito
-Inscrições: a partir de 15/09/2024, em &lt;a class="reference external" href="https://pybr2024.eventbrite.com.br"&gt;https://pybr2024.eventbrite.com.br&lt;/a&gt;
-Seleção de atividades: &lt;a class="reference external" href="https://talks.python.org.br/pythonbrasil-2024"&gt;https://talks.python.org.br/pythonbrasil-2024&lt;/a&gt;
-Local cedido por: &lt;cite&gt;SENAC &amp;lt;https://www.senac.br&amp;gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;Local: SENAC Santa Luzia&lt;/p&gt;
+&lt;p&gt;Endereço: R. Santa Luzia, 735 - Centro, Rio de Janeiro - RJ&lt;/p&gt;
+&lt;p&gt;Ingressos: Gratuito&lt;/p&gt;
+&lt;p&gt;Inscrições: a partir de 15/09/2024, em &lt;a class="reference external" href="https://pybr2024.eventbrite.com.br"&gt;https://pybr2024.eventbrite.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Seleção de atividades: &lt;a class="reference external" href="https://talks.python.org.br/pythonbrasil-2024"&gt;https://talks.python.org.br/pythonbrasil-2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Local cedido por: &lt;a class="reference external" href="https://www.senac.br"&gt;SENAC&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;O que são os tutoriais?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Os tutoriais são atividades práticas, gratuitas e com vagas limitadas. Eles são realizados nos dias 16 e 17 de outubro, na Faculdade SENAC RJ.&lt;/p&gt;
 &lt;p&gt;As inscrições são abertas por atividade, e cada atividade terá um tema específico e um ministrante para guiar os participantes.&lt;/p&gt;
@@ -14,11 +14,11 @@ Local cedido por: &lt;cite&gt;SENAC &amp;lt;https://www.senac.br&amp;gt;&lt;/cit
 &lt;p&gt;A inscrição para será disponibilizada depois da seleção das atividades, e está programada para o dia 15 de setembro de 2024.&lt;/p&gt;
 &lt;p&gt;Os ingressos à venda ainda não dão direito a participação nos tutoriais, porém eles serão divulgados entre os compradores dos ingressos das palestras com uma semana de antecedência.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Palestras&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Local: Centro de Convenções Bolsa do Rio
-Endereço: Rua do Mercado, 12 - Centro, Rio de Janeiro - RJ
-Ingressos: A partir de 200 reais (meia-entrada, primeiro lote), em &lt;a class="reference external" href="https://pybr2024.eventbrite.com.br"&gt;https://pybr2024.eventbrite.com.br&lt;/a&gt;.
-Transmissão Online: Gratuita, com inscrição prévia em &lt;a class="reference external" href="https://pybr2024.eventbrite.com.br"&gt;https://pybr2024.eventbrite.com.br&lt;/a&gt;
-Seleção de atividades: &lt;a class="reference external" href="https://talks.python.org.br/pythonbrasil-2024"&gt;https://talks.python.org.br/pythonbrasil-2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Local: Centro de Convenções Bolsa do Rio&lt;/p&gt;
+&lt;p&gt;Endereço: Rua do Mercado, 12 - Centro, Rio de Janeiro - RJ&lt;/p&gt;
+&lt;p&gt;Ingressos: A partir de 200 reais (meia-entrada, primeiro lote), em &lt;a class="reference external" href="https://pybr2024.eventbrite.com.br"&gt;https://pybr2024.eventbrite.com.br&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Transmissão Online: Gratuita, com inscrição prévia em &lt;a class="reference external" href="https://pybr2024.eventbrite.com.br"&gt;https://pybr2024.eventbrite.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Seleção de atividades: &lt;a class="reference external" href="https://talks.python.org.br/pythonbrasil-2024"&gt;https://talks.python.org.br/pythonbrasil-2024&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;O que são as palestras?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;As palestras podem ser palestras técnica - geralmente relacionadas a Python ou algo dentro do ecossistema da tecnologia - ou não-técnicas, relacionadas a carreira, soft skills, ou qualquer outro tema que não seja diretamente técnico.&lt;/p&gt;
 &lt;p&gt;A Python Brasil também conta com keynotes - ou no bom português, palestrantes convidados, que são pessoas de destaque na comunidade Python ou em áreas relacionadas que são convidadas diretamente para o evento.&lt;/p&gt;
@@ -27,45 +27,25 @@ Seleção de atividades: &lt;a class="reference external" href="https://talks.py
 &lt;p&gt;&lt;em&gt;Existe desconto para grupos, estudantes, empresas, etc?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Temos previstos os descontos de meia entrada para:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;ol class="first loweralpha"&gt;
 &lt;li&gt;Menores de 21 anos, nos termos da Lei Estadual nº 3.364/2000;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol class="first loweralpha" start="2"&gt;
 &lt;li&gt;Profissionais que estejam em efetivo exercício e aposentados nas instituições de ensino, tanto os da rede estadual como os da rede privada, nos termos da Lei Estadual nº 8.775/2020;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol class="first loweralpha" start="3"&gt;
 &lt;li&gt;Professores e profissionais da Rede Pública Municipal de Ensino do Estado do Rio de Janeiro, nos termos da Lei Municipal nº 3.424/2002 e Lei Municipal nº 5.844/2015;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol class="first loweralpha" start="4"&gt;
 &lt;li&gt;Garis da Companhia Municipal de Limpeza Urbana, nos termos da Lei Municipal nº 8.251/2024; e) Estudantes regularmente matriculados em instituições de ensino público ou privado, desde a educação infantil até o ensino superior, nos termos da Lei Federal nº 12.933/2013;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol class="first loweralpha" start="6"&gt;
 &lt;li&gt;Cidadãos com idade igual ou superior a 60 anos (Idosos), nos termos da Lei Federal nº 12.933/2013;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol class="first loweralpha" start="7"&gt;
 &lt;li&gt;Pessoas com deficiência, nos termos da Lei Federal nº 12.933/2013;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol class="first loweralpha" start="8"&gt;
 &lt;li&gt;Jovens de baixa renda, nos termos da Lei Federal nº 12.933/2013.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Além desses grupos, temos descontos que serão emitidos a critério da organização do evento com fins de inclusão e diversidade, e para fomentar a divulgação do evento em outras comunidades de tecnologia.&lt;/p&gt;
+&lt;p&gt;Mais detalhes podem ser visto no website de compra de ingressos: &lt;a class="reference external" href="https://talks.python.org.br/pythonbrasil-2024"&gt;https://talks.python.org.br/pythonbrasil-2024&lt;/a&gt;
+Além desses grupos, temos descontos que serão emitidos a critério da organização do evento com fins de inclusão e diversidade, e para fomentar a divulgação do evento em outras comunidades de tecnologia.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Preciso de uma nota-fiscal, como faço?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Nesse caso, entre em contato com a organização do evento em &lt;a class="reference external" href="mailto:eventos&amp;#64;python.org.br"&gt;eventos&amp;#64;python.org.br&lt;/a&gt;, antes ou depois de efetuar o pagamento do ingresso para que possamos te ajudar.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sprints&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Local: WeWork Almirante Barroso
-Endereço: Av. Almirante Barroso, 81 - Centro, Rio de Janeiro - RJ
-Ingressos: Gratuito
-Inscrições: Próximo à data do evento, em &lt;a class="reference external" href="https://pybr2024.eventbrite.com.br"&gt;https://pybr2024.eventbrite.com.br&lt;/a&gt;
-Chamada de atividade: &lt;a class="reference external" href="https://talks.python.org.br/pythonbrasil-2024"&gt;https://talks.python.org.br/pythonbrasil-2024&lt;/a&gt;
-Local cedido por: &lt;cite&gt;FIAP &amp;lt;https://www.alura.com.br&amp;gt;&lt;/cite&gt; e &lt;cite&gt;Alura &amp;lt;https://alura.com.br&amp;gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;Local: WeWork Almirante Barroso&lt;/p&gt;
+&lt;p&gt;Endereço: Av. Almirante Barroso, 81 - Centro, Rio de Janeiro - RJ&lt;/p&gt;
+&lt;p&gt;Ingressos: Gratuito&lt;/p&gt;
+&lt;p&gt;Inscrições: Próximo à data do evento, em &lt;a class="reference external" href="https://pybr2024.eventbrite.com.br"&gt;https://pybr2024.eventbrite.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chamada de atividade: &lt;a class="reference external" href="https://talks.python.org.br/pythonbrasil-2024"&gt;https://talks.python.org.br/pythonbrasil-2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Local cedido por: &lt;a class="reference external" href="https://www.alura.com.br"&gt;FIAP&lt;/a&gt; e &lt;a class="reference external" href="https://alura.com.br"&gt;Alura&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;O que são as sprints?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Teremos um dia dedicado a contribuir para comunidades open source na Python Brasil 2024. Pessoas que contribuem para projetos open source, ou que querem começar a contribuir, são bem-vindas para participar.&lt;/p&gt;
 &lt;p&gt;Costumamos divulgar os projetos que estarão presentes nas sprints com antecedência, para que as pessoas possam se preparar e entender melhor como podem contribuir.&lt;/p&gt;
