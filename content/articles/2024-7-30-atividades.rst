@@ -15,7 +15,7 @@ Ingressos: Gratuito
 
 Inscrições: a partir de 15/09/2024, em https://pybr2024.eventbrite.com.br
 
-Seleção de atividades: https://talks.python.org.br/pythonbrasil-2024
+Chamada para atividades: https://talks.python.org.br/pythonbrasil-2024
 
 Local cedido por: `SENAC <https://www.senac.br>`_
 
@@ -43,7 +43,7 @@ Ingressos: A partir de 200 reais (meia-entrada, primeiro lote), em https://pybr2
 
 Transmissão Online: Gratuita, com inscrição prévia em https://pybr2024.eventbrite.com.br
 
-Seleção de atividades: https://talks.python.org.br/pythonbrasil-2024
+Chamada para atividades: https://talks.python.org.br/pythonbrasil-2024
 
 *O que são as palestras?*
 
@@ -55,25 +55,6 @@ A Python Brasil também conta com keynotes - ou no bom português, palestrantes 
 
 As palestras são pagas, e os ingressos estão à venda no site do evento. A transmissão online é gratuita, porém é necessário se inscrever no site do evento para receber o link de transmissão e poder participar do chat no nosso servidor no Discord. Isso ajuda a gente a nos organizar pra suportar a quantidade de pessoas que vão assistir online.
 
-*Existe desconto para grupos, estudantes, empresas, etc?*
-
-Temos previstos os descontos de meia entrada para: 
-
-- Menores de 21 anos, nos termos da Lei Estadual nº 3.364/2000; 
-- Profissionais que estejam em efetivo exercício e aposentados nas instituições de ensino, tanto os da rede estadual como os da rede privada, nos termos da Lei Estadual nº 8.775/2020;
-- Professores e profissionais da Rede Pública Municipal de Ensino do Estado do Rio de Janeiro, nos termos da Lei Municipal nº 3.424/2002 e Lei Municipal nº 5.844/2015;
-- Garis da Companhia Municipal de Limpeza Urbana, nos termos da Lei Municipal nº 8.251/2024; e) Estudantes regularmente matriculados em instituições de ensino público ou privado, desde a educação infantil até o ensino superior, nos termos da Lei Federal nº 12.933/2013; 
-- Cidadãos com idade igual ou superior a 60 anos (Idosos), nos termos da Lei Federal nº 12.933/2013;
-- Pessoas com deficiência, nos termos da Lei Federal nº 12.933/2013;
-- Jovens de baixa renda, nos termos da Lei Federal nº 12.933/2013.
-
-Mais detalhes podem ser visto no website de compra de ingressos: `https://talks.python.org.br/pythonbrasil-2024 <https://talks.python.org.br/pythonbrasil-2024>`_
-Além desses grupos, temos descontos que serão emitidos a critério da organização do evento com fins de inclusão e diversidade, e para fomentar a divulgação do evento em outras comunidades de tecnologia.
-
-*Preciso de uma nota-fiscal, como faço?*
-
-Nesse caso, entre em contato com a organização do evento em eventos@python.org.br, antes ou depois de efetuar o pagamento do ingresso para que possamos te ajudar.
-
 **Sprints**
 
 Local: WeWork Almirante Barroso
@@ -84,7 +65,7 @@ Ingressos: Gratuito
 
 Inscrições: Próximo à data do evento, em https://pybr2024.eventbrite.com.br
 
-Chamada de atividade: https://talks.python.org.br/pythonbrasil-2024
+Chamada para atividades: https://talks.python.org.br/pythonbrasil-2024
 
 Local cedido por: `FIAP <https://www.alura.com.br>`_ e `Alura <https://alura.com.br>`_
 
