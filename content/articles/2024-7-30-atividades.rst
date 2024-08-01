@@ -5,9 +5,17 @@ Por dentro dos detalhes dos três tipos de atividades da Python Brasil
 :date: 2024-7-30 19:00
 :summary: 
 
+A Python Brasil é um evento que costuma ter três tipos de atividades! Vamos fazer, esse ano, os tutoriais (workshops) na Faculdade SENAC RJ, as palestras no Centro de Convenções da Bolsa do Rio, e as sprints no nosso Espaço Alura/FIAP dentro da WeWork Almirante Barroso!
+
+Aqui nesse post explicamos um pouquinho mais de detalhes de cada tipo de atividade.
+
 **Tutoriais**
 
-Local: SENAC Santa Luzia
+.. raw:: html
+
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/pythonbrasil/52457189644/in/album-72177720303213577/" title="Untitled"><img width="640" height="480" src="https://live.staticflickr.com/65535/52457189644_5d8154ec4d_6k.jpg" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Local: Faculdade SENAC RJ - Santa Luzia
 
 Endereço: R. Santa Luzia, 735 - Centro, Rio de Janeiro - RJ
 
@@ -35,6 +43,10 @@ Os ingressos à venda ainda não dão direito a participação nos tutoriais, po
 
 **Palestras**
 
+.. raw:: html
+
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/pythonbrasil/52454792204/in/album-72177720303182921/" title="Untitled"><img src="https://live.staticflickr.com/65535/52454792204_e67b5e7860.jpg" width="640" height="480" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Local: Centro de Convenções Bolsa do Rio
 
 Endereço: Rua do Mercado, 12 - Centro, Rio de Janeiro - RJ
@@ -57,7 +69,11 @@ As palestras são pagas, e os ingressos estão à venda no site do evento. A tra
 
 **Sprints**
 
-Local: WeWork Almirante Barroso
+.. raw:: html
+
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/pythonbrasil/10025733134/in/album-72157636061231304/" title="IMG_2931"><img src="https://live.staticflickr.com/7439/10025733134_e30270a0e4.jpg" width="640" height="480" alt="IMG_2931"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Local: Espaço FIAP/Alura - WeWork Almirante Barroso
 
 Endereço: Av. Almirante Barroso, 81 - Centro, Rio de Janeiro - RJ
 
@@ -75,14 +91,23 @@ Teremos um dia dedicado a contribuir para comunidades open source na Python Bras
 
 Costumamos divulgar os projetos que estarão presentes nas sprints com antecedência, para que as pessoas possam se preparar e entender melhor como podem contribuir. 
 
-Caso você tenha um projeto open source e possa mentorar outros contribudores, você pode submeter uma atividade para ser realizada durante as sprints. Reservaremos uma sala para seu projeto, e você poderá guiar as pessoas que se interessarem em contribuir.
+Caso você tenha um projeto open source e possa mentorar outros contribuidores, você pode submeter uma atividade para ser realizada durante as sprints. Reservaremos uma sala para seu projeto, e você poderá guiar as pessoas que se interessarem em contribuir.
 
 Esse dia é extremamente importante para a comunidade Python, pois é uma uma forma de fomentar a colaboração e a manutenção de projetos open source.
 
+------
+
 **Datas importantes pra marcar no calendário**
 
-- Primeiro lote dos ingressos tem suas vendas até dia 01/08 às 10am.
-- Você pode enviar propostas até 10/08/2024 23:59, para o nosso call for papers (chamada de trabalhos).
+- Segundo lote da venda de ingressos tem suas vendas até dia 01/10 às 10am.
+- Você pode enviar propostas até 10/08/2024 23:59, para o nosso `call for papers <https://talks.python.org.br/>`_
+
+**Vem de outra cidade/estado/país e está buscando hotel?**
+
+Recomendamos dois hotéis perto do evento:
+
+- B&B Hotels Santos Dumont (cupom de desconto: PYBR2024, valído para hospedagens entre 14/10/2024 e 23/10/2023 compradas através do `site <https://hotel-bb.com/pt/br>`)
+- Prodigy Santos Dumont (cupom de desconto: PYBR2024, valído para hospedagens entre 15/10/2024 e 22/10/2023 compradas através do `site <https://grupowish.com.br>`)
 
 **Conhece alguma empresa que está afim de patrocinar esse evento??**
 
